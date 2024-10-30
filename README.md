@@ -1,1 +1,1 @@
-# Exp4---Bubble-Sort-in-CUDA
+# Exp4 Bubble-Sort-in-CUDA
